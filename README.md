@@ -1,16 +1,46 @@
-# news_app
+# News_App - Flutter
 
-A new Flutter project.
+A complete beautiful news app in flutter. Multiple themes, search functionality, 3D navigation and much more.
 
-## Getting Started
+✔️ Sound NullSafety
 
-This project is a starting point for a Flutter application.
+## Architechture
+✔️ Clean Architechture <br />
 
-A few resources to get you started if this is your first Flutter project:
+## State Management
+✔️ Bloc <br />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
